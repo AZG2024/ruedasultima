@@ -1,0 +1,33 @@
+
+
+.parrafo-lineasdeaccion{
+    color: black!important;
+    font-size: 18px;
+   
+}
+h4.card-title{
+    font-size: 27px!important;
+    font-family: "Fredoka", sans-serif;
+    
+}
+.parrafo-eventos{
+    font-size: 20px!important;
+    color: black;
+}
+.parrafo-mision{
+    color: black;
+    font-weight: 500;
+    font-size: 20px;
+}
+.parrafo-principal{
+    color:#f4f4f4;
+    font-size: 23px!important;
+}
+ul li a{
+    font-size: 17px!important;
+   
+}
+ul li a:hover{
+    color: #f47520!important;
+    font-weight: 600!important;
+}
